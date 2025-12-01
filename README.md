@@ -59,13 +59,11 @@
     </style>
 </head>
 <body>
-
 <div class="container">
     <!-- FOTO -->
     <div class="foto">
         <img src="c:\Users\natth\OneDrive\Escritorio\fotos\yo.jpg" alt="Foto de perfil">
     </div>
-
     <!-- INFO PRINCIPAL -->
     <div class="info">
         <h1>Natalia Cajar Machado</h1>
@@ -74,7 +72,6 @@
         <strong>Dirección:</strong> Calle 36 sur # 91 c 21</p>
     </div>
 </div>
-
 <!-- PERFIL -->
 <div class="container">
     <div class="perfil">
@@ -100,7 +97,6 @@
         </ul>
     </div>
 </div>
-
 <!-- CURSOS -->
 <div class="container">
     <div class="seccion">
@@ -111,12 +107,10 @@
         </ul>
     </div>
 </div>
-
 <!-- EXPERIENCIA -->
 <div class="container">
     <div class="seccion">
         <h2>Experiencia Laboral</h2>
-
         <div class="experiencia-item">
             <p class="titulo-puesto">Asesor Back Domiciliario — Keralty / Colsanitas</p>
             <p><em>Julio 2021 - Diciembre 2023</em></p>
@@ -128,7 +122,6 @@
                 <li><strong>Logro:</strong> Clasificación de funciones para mejorar tiempos y calidad de servicio.</li>
             </ul>
         </div>
-
         <div class="experiencia-item">
             <p class="titulo-puesto">Auxiliar Administrativo y Recepcionista</p>
             <ul>
@@ -140,6 +133,5 @@
         </div>
     </div>
 </div>
-
-</body>
+</body
 </html>
